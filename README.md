@@ -1,6 +1,6 @@
 <h1 align="center">✨🖤 Hi! I'm Ashylu 🖤✨</h1>
 <p align="center">
-  Indie Game Developer ⚔️ | Anime-Inspired Storyteller 🖋️ | Computer Systems Engineering Student 💻 | Founder of <b>Sxolar Soul</b> 🖤
+  Indie Game Developer ⚔️ | Anime-Inspired Storyteller 🖋️ | Founder of <b>Sxolar Soul</b> 🖤
 </p>
 
 ---
